@@ -1,0 +1,34 @@
+```gitignore
+# Dependencies
+node_modules
+
+# Build files
+dist
+build
+
+# Environment variables
+.env
+server/.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode
+.idea
+
+# Vite
+.vite
+
+# Coverage
+coverage
+
+# Misc
+*.local
+```
